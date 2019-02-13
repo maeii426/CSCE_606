@@ -1,3 +1,6 @@
 [submodule "hw-ruby-intro"]
 	path = hw-ruby-intro
 	url = https://github.com/maeii426/hw-ruby-intro.git
+[submodule "hw-rails-intro"]
+	path = hw-rails-intro
+	url = https://github.com/maeii426/hw-rails-intro.git
